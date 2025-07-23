@@ -28,8 +28,9 @@ The system supports both **single-object** and **group-object tracking** modes.
 
 ### single mode
 
-<img src="https://github.com/user-attachments/assets/0b0213ec-8a7a-416e-92e9-e59c822d5eae" width="500px" height="300px">
+<img src="https://github.com/user-attachments/assets/0b0213ec-8a7a-416e-92e9-e59c822d5eae" width="400px" height="500px">
 
 
 ### group mode
-![Image](https://github.com/user-attachments/assets/6fce4f9d-33be-4d09-a254-0f96c9a575ab)
+
+<img src="https://github.com/user-attachments/assets/6fce4f9d-33be-4d09-a254-0f96c9a575ab" width="400px" height="500px">
