@@ -26,3 +26,7 @@ The system supports both **single-object** and **group-object tracking** modes.
 - Tracks object movement based on the **difference between previous and current bounding box positions**.
 - Adapts to directional changes (left, right, up, down), and moves to new positions smoothly, reducing detection noise.
 
+### single mode
+![Image](https://github.com/user-attachments/assets/0b0213ec-8a7a-416e-92e9-e59c822d5eae)
+
+### group mode
