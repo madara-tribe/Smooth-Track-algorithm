@@ -1,4 +1,4 @@
-## System Overview
+# System Overview
 This repository provides a real-time object tracking system based on YOLO object detection, designed for **more smoother and stable tracking** performance than previous core sysytem. 
 
 The core functionality is built around object detection (YOLO) and custom logic for bounding box tracking. 
@@ -6,7 +6,7 @@ Unlike conventional approaches that cause bounding boxes (BBoxes) to flicker or 
 
 The system supports both **single-object** and **group-object tracking** modes.
 
-## Features
+# Features
 
 ### 1. Single Tracking Mode
 - Focuses on tracking a single target object.
