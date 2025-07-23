@@ -27,6 +27,9 @@ The system supports both **single-object** and **group-object tracking** modes.
 - Adapts to directional changes (left, right, up, down), and moves to new positions smoothly, reducing detection noise.
 
 ### single mode
-![Image](https://github.com/user-attachments/assets/0b0213ec-8a7a-416e-92e9-e59c822d5eae)
+
+<img src="https://github.com/user-attachments/assets/0b0213ec-8a7a-416e-92e9-e59c822d5eae" width="500px" height="300px">
+
 
 ### group mode
+![Image](https://github.com/user-attachments/assets/6fce4f9d-33be-4d09-a254-0f96c9a575ab)
