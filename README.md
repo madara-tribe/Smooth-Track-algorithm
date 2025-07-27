@@ -6,6 +6,7 @@ Unlike conventional approaches that cause bounding boxes (BBoxes) to flicker or 
 
 The system supports both **single-object** and **group-object tracking** modes.
 
+c++ version repository is [here](https://github.com/madara-tribe/Smooth-Track-algorithm/tree/cpp) 
 # Features
 
 ### 1. Single Tracking Mode
